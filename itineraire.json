@@ -1,0 +1,125 @@
+{
+  "pays": "Slovénie",
+  "drapeau": "🇸🇮",
+  "symbole": "🐉",
+  "titre": "Ljubljana: Escapade Relaxante au Cœur de la Slovénie",
+  "budget_total": "1035 €",
+  "duree": "4 jours",
+  "temps_vol": "2h00 depuis Paris, france",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Douceur de Ljubljana",
+      "legende": "Après un vol court, installez-vous confortablement dans la charmante capitale slovène. La première journée est dédiée à une immersion en douceur, en flânant le long de la rivière Ljubljanica et en découvrant l'atmosphère paisible de la vieille ville. Laissez-vous charmer par l'architecture baroque et les ponts emblématiques.",
+      "lieu": "Ljubljana",
+      "activites": [
+        "<strong>🛬 Arrivée à Ljubljana</strong>: Atterrissage à l'aéroport Jože Pučnik (LJU) et transfert vers le centre-ville pour une installation sans stress.",
+        "<strong>🛏️ Installation à l'hôtel</strong>: Prenez vos quartiers dans votre hébergement 3 étoiles, idéalement situé pour explorer la ville à pied.",
+        "<strong>🚶‍♂️ Balade le long de la Ljubljanica</strong>: Profitez d'une promenade relaxante sur les rives de la rivière, admirez les façades colorées et les terrasses animées."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Transfert aéroport",
+          "texte": "Des navettes (Airport Shuttle) ou des bus publics relient l'aéroport au centre-ville de Ljubljana en environ 30-45 minutes. C'est une option économique et pratique."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏰",
+      "titre": "Château, Parcs et Charme Fluvial",
+      "legende": "Explorez les hauteurs de Ljubljana avec son château emblématique offrant des vues panoramiques, puis redescendez pour vous ressourcer dans la verdure du parc Tivoli. Terminez la journée par une perspective unique de la ville depuis la rivière, une manière apaisante de découvrir ses trésors cachés.",
+      "lieu": "Ljubljana",
+      "activites": [
+        "<strong>🚠 Visite du Château de Ljubljana</strong>: Montez en funiculaire pour découvrir ce symbole de la ville et profiter d'une vue imprenable sur les toits rouges et les Alpes juliennes.",
+        "<strong>🌳 Détente au Parc Tivoli</strong>: Promenez-vous tranquillement dans le plus grand parc de Ljubljana, un havre de paix idéal pour une pause nature en plein cœur de la ville.",
+        "<strong>🛶 Croisière sur la Ljubljanica</strong>: Embarquez pour une douce croisière fluviale, passant sous les célèbres ponts de la ville et offrant une perspective différente sur son architecture."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Astuce Funiculaire",
+          "texte": "Le funiculaire est le moyen le plus simple et rapide d'accéder au château, offrant déjà de belles vues pendant la montée."
+        },
+        {
+          "symbole": "🐉",
+          "titre": "Le Pont des Dragons",
+          "texte": "Ne manquez pas de traverser le célèbre Pont des Dragons, l'un des symboles les plus reconnaissables de Ljubljana, parfait pour une photo souvenir."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🏞️",
+      "titre": "Évasion Lacustre à Bled",
+      "legende": "Aujourd'hui, échappez à l'agitation urbaine pour une excursion mémorable au lac de Bled, joyau alpin de la Slovénie. Laissez-vous envoûter par la beauté sereine du lac, de son île pittoresque et de son château perché. Une journée dédiée à la contemplation et à la douceur de vivre.",
+      "lieu": "Lac de Bled",
+      "activites": [
+        "<strong>🚌 Excursion au Lac de Bled</strong>: Prenez un bus confortable depuis Ljubljana pour rejoindre le magnifique lac de Bled, environ 1h de trajet.",
+        "<strong>🚣‍♀️ Balade en Pletna vers l'île</strong>: Montez à bord d'une barque traditionnelle (Pletna) pour traverser le lac jusqu'à l'île de Bled et visiter son église.",
+        "<strong>🍰 Dégustation de Kremšnita</strong>: Savourez la fameuse pâtisserie locale, la Kremšnita (gâteau à la crème), avec une vue imprenable sur le lac."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🚶‍♀️",
+          "titre": "Tour du lac",
+          "texte": "Une promenade d'environ 6 km autour du lac de Bled est une activité très agréable et relaxante, offrant de multiples points de vue sur l'île et le château."
+        },
+        {
+          "symbole": "📸",
+          "titre": "Point de vue",
+          "texte": "Pour les meilleures photos du lac, montez jusqu'au point de vue d'Ojstrica ou de Mala Osojnica (randonnée légère)."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🛍️",
+      "titre": "Marché, Souvenirs et Départ",
+      "legende": "Profitez de votre dernière matinée pour vous imprégner une dernière fois de l'ambiance de Ljubljana. Flânez au marché central pour quelques emplettes locales, visitez un petit musée si le cœur vous en dit, ou simplement savourez un café en terrasse avant de prendre le chemin du retour, la tête pleine de souvenirs slovènes.",
+      "lieu": "Ljubljana",
+      "activites": [
+        "<strong>🍎 Visite du Marché Central</strong>: Découvrez les produits locaux, l'artisanat et l'ambiance vibrante du marché en plein air et couvert de Ljubljana.",
+        "<strong>🎁 Achats de souvenirs</strong>: Profitez des petites boutiques de la vieille ville pour trouver des cadeaux uniques et des souvenirs de votre voyage.",
+        "<strong>✈️ Départ de Ljubljana</strong>: Transfert vers l'aéroport Jože Pučnik (LJU) pour votre vol retour vers Paris, france, avec des souvenirs inoubliables."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "☕",
+          "titre": "Pause Café",
+          "texte": "Avant de partir, offrez-vous un dernier café slovène sur l'une des nombreuses terrasses de la vieille ville, pour un adieu en douceur."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "208 €/pers (A/R depuis Paris)", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "50 €/pers (transferts aéroport, bus Bled, funiculaire)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "350 €/pers (environ 30€/repas, 3 repas/jour)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "350 €/pers (3 nuits en hôtel 3* à 115€/nuit)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "75 €/pers (château, croisière, Pletna)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Printemps (Avril-Juin)", "symbole": "🌸" },
+    { "titre": "Automne (Septembre-Octobre)", "symbole": "🍂" }
+  ],
+  "infos_pratiques": [
+    { "titre": "La monnaie est l'Euro (€). Les cartes de crédit sont largement acceptées, mais un peu de liquide est utile pour les petits commerces ou marchés.", "symbole": "💳" },
+    { "titre": "La langue officielle est le slovène, mais l'anglais est très répandu, surtout dans les zones touristiques.", "symbole": "🗣️" },
+    { "titre": "Ljubljana est une ville très agréable à explorer à pied. Pour les excursions, le réseau de bus est efficace et ponctuel.", "symbole": "🚶‍♀️" },
+    { "titre": "En Slovénie, les prises électriques sont de type F (comme en France), donc pas besoin d'adaptateur.", "symbole": "🔌" }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol Paris-Ljubljana", "url": "https://www.kayak.fr/flights/CDG-LJU/2026-03-17/2026-03-21", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Tourisme Slovénie", "url": "https://www.slovenia.info/fr", "symbole": "📘" },
+    { "legende": "Transports en commun Ljubljana", "titre": "LPP (Transports publics)", "url": "https://www.lpp.si/en", "symbole": "🚌" },
+    { "legende": "Météo", "titre": "Météo Ljubljana", "url": "https://www.accuweather.com/fr/si/ljubljana/298453/weather-forecast/298453", "symbole": "🌤️" }
+  ]
+}
